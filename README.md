@@ -16,7 +16,7 @@ The platform is built with a PHP backend and MySQL database, offering scalabilit
 <b>Admin Dashboard:</b> Manage users, courses, and content via an admin panel.<br>
 <h2>Tech Stack</h2>
 <b>Frontend:</b> HTML5, CSS3, JavaScript (React.js)<br>
-![image](https://github.com/user-attachments/assets/51ccbc80-e233-4c50-8bb8-a5237e5abea2)
+![Description of Image](https://github.com/user-attachments/assets/51ccbc80-e233-4c50-8bb8-a5237e5abea2)
 
 
 
