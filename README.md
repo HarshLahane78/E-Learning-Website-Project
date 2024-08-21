@@ -46,7 +46,7 @@ npm start
 <h2>Contact</h2>
 For any questions or feedback, feel free to reach out:
 <br>
-Name: Harshwardhan Lahane
+Name: Harshwardhan Lahane<br>
 Email: <a href="mailto:harshwardhanlahane633@gmail.com">harshwardhanlahane633@gmail.com</a>
 
 
