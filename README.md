@@ -1,12 +1,15 @@
 <h1>E-Learning Website</h1> 
 <h2>Introduction</h2>
 This is a full-featured e-learning website designed to provide an online platform for students and educators. The platform includes courses, video lessons, quizzes, user profiles, and more. The goal is to make learning accessible and interactive, leveraging modern web technologies.<br>
+<h2>Summary</h2>
+This e-learning platform provides a complete solution for online education, allowing instructors to design courses with multimedia content, manage lessons, and track student progress. Students can access video lessons, participate in quizzes, and engage in discussions, creating an interactive learning environment. With role-based access, administrators can oversee all aspects of the platform, from user management to course moderation.<br>
+
+The platform is built with a PHP backend and MySQL database, offering scalability and security. The frontend ensures a responsive experience across devices, making learning accessible anywhere. Whether for schools, training programs, or independent educators, this platform is designed to simplify online education and enhance user engagement.
 
 <h2>Features</h2>
 <b>User Authentication:</b> Secure login and registration system with role-based access control (e.g., Admin, Instructor, Student).<br>
 <b>Course Management:</b> Instructors can create, edit, and delete courses with multimedia content.<br>
 <b>Video Lessons:</b> Integrated video player to provide seamless learning experience.<br>
-<b>Quizzes and Assessments:</b> Test students’ knowledge with quizzes after each module.<br>
 <b>Progress Tracking:</b> Track learning progress and completion status.<br>
 <b>Responsive Design:</b> Mobile-friendly design to ensure accessibility on all devices.<br>
 <b>Discussion Forums:</b> Students can participate in discussions and ask questions.<br>
@@ -16,6 +19,35 @@ This is a full-featured e-learning website designed to provide an online platfor
 <b>Backend: </b>PHP<br>
 <b>Database: </b>SQL<br>
 
-Clone the repository:
+<h3><b>Clone the repository:</b></h3>
+
+```bash
 git clone https:/HarshLahane78/github.com//e-learning-website.git
+```
+
+```bash
 cd e-learning-website
+```
+
+<h3><b>FronEnd Setup:</b></h3>
+
+If you have a separate frontend setup, navigate to the frontend directory and install dependencies:
+```bash
+cd frontend
+```
+```bash
+npm install
+```
+```bash
+npm start
+```
+<br>
+
+<h2>Contact</h2>
+For any questions or feedback, feel free to reach out:
+<br>
+Name: Harshwardhan Lahane
+Email: <a href="mailto:harshwardhanlahane633@gmail.com">harshwardhanlahane633@gmail.com</a>
+
+
+
