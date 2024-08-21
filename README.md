@@ -16,6 +16,7 @@ The platform is built with a PHP backend and MySQL database, offering scalabilit
 <b>Admin Dashboard:</b> Manage users, courses, and content via an admin panel.<br>
 <h2>Tech Stack</h2>
 <b>Frontend:</b> HTML5, CSS3, JavaScript (React.js)<br>
+
 <b>Backend: </b>PHP<br>
 <b>Database: </b>SQL<br>
 
@@ -23,23 +24,6 @@ The platform is built with a PHP backend and MySQL database, offering scalabilit
 
 ```bash
 git clone https:/HarshLahane78/github.com//e-learning-website.git
-```
-
-```bash
-cd e-learning-website
-```
-
-<h3><b>FronEnd Setup:</b></h3>
-
-If you have a separate frontend setup, navigate to the frontend directory and install dependencies:
-```bash
-cd frontend
-```
-```bash
-npm install
-```
-```bash
-npm start
 ```
 <br>
 
